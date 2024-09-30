@@ -40,11 +40,11 @@ $(document).ready(function() {
 
     $(".BtnMoodBoard").off('click').on('click', function () {
         // window.open('Images/Mb.pdf', '_blank');
-        window.open('https://sorasilver25.github.io/PortfolioMB/Mb.pdf', '_blank');
+        window.open('https://sorasilver25.github.io/PortfolioMb/Mb.pdf', '_blank');
     })
 
     $(".BtnCV").off('click').on('click', function () {
         // window.open('Images/CV.pdf', '_blank');
-        window.open('https://sorasilver25.github.io/PortfolioMB/CV.pdf', '_blank');
+        window.open('https://sorasilver25.github.io/PortfolioMb/CV.pdf', '_blank');
     })
 });
